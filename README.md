@@ -17,8 +17,7 @@ Tap any button to instantly change the app's icon. Built fully with **Jetpack Co
 
 ## 🎥 **Demo (Screen Recording)**
 
-https://github.com/YOUR_USERNAME/Icora/assets/screen_recording.gif  
-*(Replace with your uploaded screen recording GIF/MP4)*
+https://github.com/ajithvgiri/icora/assets/icora_screen_recording.mov  
 
 ---
 
